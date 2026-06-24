@@ -1,0 +1,5 @@
+ALLOWED_EXTENSIONS = {
+    "pdf",
+    "docx",
+    "txt"
+}
